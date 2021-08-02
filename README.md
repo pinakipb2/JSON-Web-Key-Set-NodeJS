@@ -1,1 +1,1 @@
-# JSON Web Key Set NodeJS
+# JSON Web Key Set NodeJS (JWKS)
